@@ -18,7 +18,7 @@ export default function Dictionary(){
             setDef(foundWord.meaning);
         }
         else{
-            setDef("Words not found in the dictionary.");
+            setDef("Word not found in the dictionary.");
         }
     }
 
